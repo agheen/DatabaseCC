@@ -1,0 +1,6 @@
+c:\users\austin\documents\visual studio 2017\Projects\DatabaseCC\DatabaseCC\obj\Debug\DatabaseCC.csprojResolveAssemblyReference.cache
+c:\users\austin\documents\visual studio 2017\Projects\DatabaseCC\DatabaseCC\bin\Debug\DatabaseCC.exe.config
+c:\users\austin\documents\visual studio 2017\Projects\DatabaseCC\DatabaseCC\bin\Debug\DatabaseCC.exe
+c:\users\austin\documents\visual studio 2017\Projects\DatabaseCC\DatabaseCC\bin\Debug\DatabaseCC.pdb
+c:\users\austin\documents\visual studio 2017\Projects\DatabaseCC\DatabaseCC\obj\Debug\DatabaseCC.exe
+c:\users\austin\documents\visual studio 2017\Projects\DatabaseCC\DatabaseCC\obj\Debug\DatabaseCC.pdb
